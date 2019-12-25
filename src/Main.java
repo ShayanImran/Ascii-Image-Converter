@@ -7,6 +7,9 @@ import org.opencv.core.Core;
 
 public class Main
 {
+    static String ASCIIChars = "`^\",:;Il!i~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$";
+    static double maxPixelValue = 256;
+
     // Compulsory to start openCV
     static
     {
@@ -15,8 +18,7 @@ public class Main
 
     public static void main(String[] args)
     {
-        String ASCIIChars = "`^\",:;Il!i~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$";
-        double maxPixelValue = 256;
+
 
         //Instantiating ImageModifier Class
         ImageModifier imageModifier = new ImageModifier();
@@ -40,7 +42,6 @@ public class Main
         imageModifier.printImage();
 
         System.exit(0 );
-
 
   }
 }
