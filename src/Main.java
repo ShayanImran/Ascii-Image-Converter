@@ -19,7 +19,6 @@ public class Main
     public static void main(String[] args)
     {
 
-
         //Instantiating ImageModifier Class
         ImageModifier imageModifier = new ImageModifier();
 
@@ -29,11 +28,11 @@ public class Main
         fileExplorer.setDirectory("C:");
         fileExplorer.setVisible(true);
         String imagePath = fileExplorer.getDirectory() + fileExplorer.getFile();
+        
         if (imagePath == null)
             System.out.println("You cancelled the choice");
         else
             System.out.println("You chose " + imagePath);
-
 
         imageModifier.loadImage(imagePath);
         imageModifier.getRGB();
