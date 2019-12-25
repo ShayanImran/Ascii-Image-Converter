@@ -7,11 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c9a8b35-d5ae-40e8-a29f-5723a9288085" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ImageModifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AsciiProject/ImageModifier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AsciiProject/ImageModifier.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/AsciiProject/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AsciiProject/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
