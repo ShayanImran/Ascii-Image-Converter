@@ -3,6 +3,6 @@ This is a small program written in Java using the OpenCV library that takes any 
 The final result is a grid of characters that make up the original picture.
 
 **Planned Changes**
-*Have output be sent to windows terminal
-*Have output get saved to notepad
-*Implement click/touch UI
+Have output be sent to windows terminal
+Have output get saved to notepad
+Implement click/touch UI
