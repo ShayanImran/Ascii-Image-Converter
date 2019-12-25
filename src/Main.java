@@ -18,8 +18,7 @@ public class Main
         String ASCIIChars = "`^\",:;Il!i~+_-?][}{1)(|\\/tfjrxnuvczXYUJCLQ0OZmwqpdbkhao*#MW&8%B@$";
         double maxPixelValue = 256;
 
-        //Instantiating ImageCodecs and ImageModifier Class
-        Imgcodecs imageCodecs = new Imgcodecs();
+        //Instantiating ImageModifier Class
         ImageModifier imageModifier = new ImageModifier();
 
         //Opens Windows file explorer for selection
